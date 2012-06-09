@@ -17,7 +17,7 @@ dependencies of the multiuser automatic performance testing.
 Screenshot
 ----------
 
-![Screenshot](http://http://colorissimo.net/images/m3d0001.jpg)
+![Screenshot](http://colorissimo.net/images/m3d0001.jpg)
 
 Author
 ------
